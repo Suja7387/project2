@@ -1,0 +1,108 @@
+.one{
+    border: 1px solid green;
+width: 100px;
+height: 160px;
+
+margin: 10px;
+border-radius: 5px;
+margin-top: 0px;
+box-shadow:red 5px 5px 8px;
+background-color: white;
+font-weight: bold;
+padding-top: 3px;
+text-align: center;
+}
+.two{
+    width: 100px;
+height: 160px;
+border: 1px solid green;
+margin: 10px;
+border-radius: 5px;
+margin-top: 0px;
+box-shadow:red 5px 5px 8px;
+background-color:white;
+font-weight: bold;
+padding-top: 3px;
+text-align: center;
+}
+.three{
+    width: 100px;
+height: 160px;
+border: 1px solid green;
+margin: 10px;
+border-radius: 5px;
+margin-top: 0px;
+box-shadow:red  5px 5px 8px;
+background-color:white;
+font-weight: bold;
+padding-top: 3px;
+text-align: center;
+}
+.parent{
+    display: flex;
+    padding-left: 100px;
+}
+p{
+    text-decoration: line-through;
+    color:rgb(238, 130, 171);
+    text-align: center;
+}
+h1{
+    margin-left: 120px;
+   
+}
+i{
+     margin-left:350px;
+     background-color:chartreuse;
+     
+}
+b{
+    font-size: 20px;
+    margin-left: 150px;
+    margin-top: 150px;
+    text-shadow: rgb(209, 211, 82) 5px 5px 4px;
+    text-decoration: underline;
+    color: rgb(21, 206, 21);
+}
+.sujal0{
+    background-image: url('./trip4.jpg');
+    background-attachment: fixed;
+    background-size: 100% 100%;
+
+ 
+  
+   
+}
+.sujal1{
+    height: 100px;
+    width: 150px;
+    border:green solid 5px;
+    margin-left: 150px;
+   background-color: white;
+   position: absolute;
+   left:80px;
+   top: 100px;
+   border-radius: 10px;
+   box-shadow: rgb(255, 123, 71) 5px 5px 10px;
+
+}
+.parent1{
+    position: absolute;
+    filter: blur(2px);
+}
+form{
+    text-align: center;
+    padding: 10px;
+    color: tomato;
+  
+  
+}
+input{
+    width: 100px;
+    height: 8px;
+}
+button{
+    border-radius: 8px;
+    background-color: red;
+    
+}
