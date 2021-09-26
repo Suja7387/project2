@@ -2,7 +2,6 @@
     border: 1px solid green;
 width: 100px;
 height: 160px;
-
 margin: 10px;
 border-radius: 5px;
 margin-top: 0px;
@@ -106,4 +105,7 @@ button{
     border-radius: 8px;
     background-color: red;
     
+}
+.one:hover{
+    background-color: rgba(192, 192, 192, 0.774);
 }
