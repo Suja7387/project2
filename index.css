@@ -53,6 +53,7 @@ p{
 i{
      margin-left:150px;
      background-color:red ;
+     border-radius: 10px;
      
 }
  .b1{
@@ -119,7 +120,7 @@ h1 {
     margin: 20px 20px;
     color: black;
     text-align: center;
-    font-size: 30px;
+    font-size: 26px;
     max-width: 600px;
     position: relative;
   }
